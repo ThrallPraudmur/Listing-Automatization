@@ -2,7 +2,7 @@
 ## Архитектура проекта
 
 <p align="center">
-  <img src="./images/langchain-streamlit-architecture.jpeg" width="40%" alt="Демо">
+  <img src="./langchain-streamlit-architecture.jpeg" width="40%" alt="Демо">
 </p>
 
 ## Структура проекта
