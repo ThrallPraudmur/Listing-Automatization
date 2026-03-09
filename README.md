@@ -1,4 +1,10 @@
 # Listing-Automatization
+## Архитектура проекта
+
+<p align="center">
+  <img src="./images/langchain-streamlit-architecture.jpeg" width="40%" alt="Демо">
+</p>
+
 ## Структура проекта
 ```python
 doc_analyzer/  
