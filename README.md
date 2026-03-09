@@ -1,7 +1,7 @@
 # Listing-Automatization
 ## Архитектура проекта
 
-<p align="center">
+<p align="left">
   <img src="./langchain-streamlit-architecture.jpeg" width="40%" alt="Демо">
 </p>
 
